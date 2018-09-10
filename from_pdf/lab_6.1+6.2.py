@@ -1,5 +1,4 @@
-import lab_1_2, lab_1_3, lab_3_1, lab_3_4, lab_4_2,\
-        lab_4_1, lab_5_1, lab_5_2, lab_2_3, lab_2_2
+from from_pdf import lab_1_2, lab_4_2, lab_1_3, lab_3_1, lab_3_4, lab_4_1, lab_5_1, lab_5_2, lab_2_3, lab_2_2
 from prettytable import PrettyTable
 
 
